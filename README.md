@@ -2,7 +2,7 @@
 
 ## 1. 個人資料篇
 ## 2. 電腦篇
-## 3. 電話篇
+## [3. 電話篇](./Mobile/)
 ### [WhatsApp](./Mobile/WhatsApp.md)
 ### [Telegram](./Mobile/Telegram.md)
 ### [ChatSecure](./Mobile/ChatSecure.md)
