@@ -7,7 +7,7 @@
 Android 係 5.0 之後，就自帶有 Encrypt device 功能，可以保證成個手機 Flash Chip 嘅 Data 都 Encryption 咗。因為各品牌嘅電話 OS 唔一樣，呢度只能講大概嘅位置。
 打開電話嘅 Settings，搵 Lock Screen and Security 或類似字眼，點開之後搵 Encrypt Device 功能。成個加密過程時間較長，用家要保證手機電池電量足夠，加密期間電話可能會重啟數次，用家唔需要擔心。加密完成之後，電話開機嘅時候，係 Load OS 之前，需要輸入 Password，並且冇辦法直接讀出數據。
 
-#### 關閉 ADB Debug。
+#### 關閉 ADB Debug
 有部分用家嘅 Android 開啟咗 Developer options，如果開咗 ADB Debug，就可能存在電話被控制嘅風險。
 打開電話嘅 Settings>>Developer options，將 USB Debugging 關閉，並選擇 Revoke USB Debugging Authorizations。
 
