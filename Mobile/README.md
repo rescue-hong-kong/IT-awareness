@@ -37,3 +37,5 @@
 #### [設置 SIM PIN](./Apple_Devices.md#設置-sim-pin)
 #### [法律問題](./Apple_Devices.md#法律問題)
 #### [Reset 電話](./Apple_Devices.md#reset-電話)
+### [3.7 Android](./Android_Devices.md)
+#### 

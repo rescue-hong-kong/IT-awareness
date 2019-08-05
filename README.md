@@ -11,5 +11,7 @@
 #### [3.5.1 Onion Browser](./Mobile/Mobile_Browser.md#onion-browser-僅限-apple-用家)
 #### [3.5.2 Tor Browser](./Mobile/Mobile_Browser.md#tor-browser-僅限-android-用家)
 #### [3.5.3 Firefox Focus](./Mobile/Mobile_Browser.md#firefox-focus)
+### [3.6 iPhone/iPad/iOS 裝置](./Mobile/Apple_Devices.md)
+### [3.7 Android](./Mobile/Android_Devices.md)
 ## 4. (待定)
 ## 5. (待定)
